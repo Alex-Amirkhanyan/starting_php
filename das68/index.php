@@ -78,13 +78,13 @@
 
 
 
-    // $a = 5;
-    // $b = 7;
-    // $a = ($a + $b);
-    // $b = $a - $b;
-    // $a = $a - $b;
-    // echo $a . '<br>';
-    // echo $b;
+//     $a = "5";
+//     $b = "7";
+//     $a = ($a + $b);
+//     $b = $a - $b;
+//     $a = $a - $b;
+//     echo $a . '<br>';
+//     echo $b;
 
 
     // $email = "some@address.com";
@@ -121,3 +121,13 @@
     // }
     // echo '<pre>';
     // var_dump($uniqueArry);
+
+
+
+//    $a = "text1";
+//    $b = "text2";
+//    $c = $a;
+//    $a = $b;
+//    $b = $c;
+//    echo $a . '<br>';
+//    echo $b;
